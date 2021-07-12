@@ -8,7 +8,7 @@ If you try to use sass modules when developing your components in VS Code, you'l
 
 ## The solution
 
-You can use this repo as your starting code, or use the following steps if you want to add the configuration to your current project:
+You can use this repo as your starting code, then just `bit install`, or use the following steps if you want to add the configuration to your current project:
 
 1. `bit install sass`
 2. `bit install typescript-plugin-css-modules`
